@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{9F301A68-EDAF-4B79-BF14-0737706B51B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeuceTracker/Models/DeuceModel.cs">
+    <Files>
+      <File FileName="DeuceTracker/App.xaml.cs" Line="14" Column="44" />
+      <File FileName="../../Desktop/:Users:michelma:Projects:DeuceTracker:DeuceTracker:Models:DeuceTrackerPageModel.cs" Line="6" Column="52" />
+      <File FileName="DeuceTracker/Infrastructure/MainViewModel.cs" Line="14" Column="4" />
+      <File FileName="DeuceTracker/ViewModels/DeuceTrackerViewModel.cs" Line="57" Column="40" />
+      <File FileName="DeuceTracker/Models/DeuceTrackerModel.cs" Line="7" Column="46" />
+      <File FileName="DeuceTracker/Views/DeuceTrackerPage.xaml.cs" Line="16" Column="1" />
+      <File FileName="Droid/FileAccessHelper.cs" Line="10" Column="57" />
+      <File FileName="iOS/FileAcessHelper.cs" Line="24" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="25" Column="34" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="23" Column="1" />
+      <File FileName="../../Desktop/:Users:michelma:Projects:DeuceTracker:DeuceTracker:Models:DeuceHistorySQL.cs" Line="7" Column="21" />
+      <File FileName="DeuceTracker/Models/DeuceModel.cs" Line="19" Column="1" />
+      <File FileName="DeuceTracker/SQLiteHelpers/DeuceRepository.cs" Line="23" Column="1" />
+      <File FileName="DeuceTracker/SQLiteHelpers/SqlDeuceHistory.cs" Line="19" Column="62" />
+      <File FileName="DeuceTracker/packages.config" Line="1" Column="1" />
+      <File FileName="../../Desktop/:Users:michelma:Projects:DeuceTracker:DeuceTracker:Views:MainMasterDetailPage.cs" Line="11" Column="4" />
+      <File FileName="DeuceTracker/Views/MainMasterDetailPage.xaml.cs" Line="12" Column="1" />
+      <File FileName="DeuceTracker/Views/MainMasterPage.xaml.cs" Line="22" Column="25" />
+      <File FileName="DeuceTracker/obj/Debug/DeuceTracker.Views.MainMasterDetailPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="DeuceTracker/Infrastructure/MasterPageItem.cs" Line="14" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.0.0-18/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1" Column="1" />
+      <File FileName="DeuceTracker/Views/DeuceStatsPage.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DeuceTracker.iOS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/michelma/Projects/DeuceTracker/DeuceTracker/Views/MainMasterDetailPage.xaml" line="14" column="19" />
+      <Breakpoint file="/Users/michelma/Projects/DeuceTracker/DeuceTracker/Views/MainMasterDetailPage.xaml" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DeuceTracker.Droid PreferredExecutionTarget="Android.PBV7N16321022799" />
+</Properties>
