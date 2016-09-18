@@ -36,6 +36,9 @@
     <EmbeddedResource Include="Views\MainMasterPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\DeuceStatsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -58,7 +61,9 @@
       <DependentUpon>MainMasterPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Infrastructure\MasterPageItem.cs" />
-    <Compile Include="Views\DeuceStatsPage.cs" />
+    <Compile Include="Views\DeuceStatsPage.xaml.cs">
+      <DependentUpon>DeuceStatsPage.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">

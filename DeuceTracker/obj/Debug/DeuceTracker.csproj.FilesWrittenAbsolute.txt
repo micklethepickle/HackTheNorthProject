@@ -36,3 +36,5 @@
 /Users/michelma/Projects/HackTheNorthProject/DeuceTracker/bin/Debug/SQLite-net.dll
 /Users/michelma/Projects/HackTheNorthProject/DeuceTracker/bin/Debug/DeuceTracker.dll.mdb
 /Users/michelma/Projects/HackTheNorthProject/DeuceTracker/bin/Debug/DeuceTracker.dll
+/Users/michelma/Projects/HackTheNorthProject/DeuceTracker/obj/Debug/DeuceTracker.Views.DeuceStatsPage.xaml
+/Users/michelma/Projects/HackTheNorthProject/DeuceTracker/obj/Debug/DeuceTracker.Views.DeuceStatsPage.xaml.g.cs
